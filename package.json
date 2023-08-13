@@ -1,0 +1,22 @@
+{
+  "name": "frontend-file-download",
+  "version": "1.0.0",
+  "description": "Download file on the frontend",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialHaze/frontend-file-download.git"
+  },
+  "author": "Moinak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/officialHaze/frontend-file-download/issues"
+  },
+  "homepage": "https://github.com/officialHaze/frontend-file-download#readme",
+  "files": ["dist/**/*"]
+}
