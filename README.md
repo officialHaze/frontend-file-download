@@ -1,2 +1,2 @@
 # frontend-file-download
-Download received from backend on the frontend
+Download files received from backend on the frontend
